@@ -1,0 +1,78 @@
+{
+    "guests": [
+        {
+            "guestInfo": {
+                "id": 1,
+                "firstName": "Luke",
+                "lastName": "Roberts",
+                "email": "lukeroberts.j@gmail.com",
+                "responded": false,
+                "associatedGuest": "Alexandria McMahon",
+                "plusOne": true,
+                "kidCount": 3
+            },
+            "response": {
+                "attending": {
+                    "response": "no"
+                },
+                "meat": {
+                    "response": null
+                },
+                "note": {
+                    "response": null
+                },
+                "kidCount": {
+                    "response": null
+                },
+                "plusOne": {
+                    "response": null
+                },
+                "plusOneMeat": {
+                    "response": null
+                },
+                "associatedGuest": {
+                    "response": null
+                },
+                "associatedGuestMeat": {
+                    "response": null
+                }
+            }
+        },
+        {
+            "guestInfo": {
+                "id": 1,
+                "firstName": "Luke",
+                "lastName": "Roberts",
+                "email": "lukeroberts.j@gmail.com",
+                "responded": false,
+                "associatedGuest": "Alexandria McMahon",
+                "plusOne": false,
+                "kidCount": 3
+            }
+        },
+        {
+            "guestInfo": {
+                "id": 1,
+                "firstName": "Luke",
+                "lastName": "Roberts",
+                "email": "lukeroberts.j@gmail.com",
+                "responded": false,
+                "associatedGuest": "Alexandria McMahon",
+                "plusOne": false,
+                "kidCount": 3
+            }
+        },
+        {
+            "guestInfo": {
+                "id": 1,
+                "firstName": "Luke",
+                "lastName": "Roberts",
+                "email": "lukeroberts.j@gmail.com",
+                "responded": false,
+                "associatedGuest": "Alexandria McMahon",
+                "plusOne": false,
+                "kidCount": 3
+            }
+        }
+    ]
+}
